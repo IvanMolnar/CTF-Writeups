@@ -1,6 +1,6 @@
 ![task](./img/task.png)
 
-Tools used: [Cutter][1]
+Tools used: [Cutter](https://cutter.re/)
 
 
 This task is basically serial/license key check.
@@ -49,6 +49,3 @@ to decrypt string
 When we run it we get flag
 
 ![3](./img/3.png)
-
-
-[1] https://cutter.re/
